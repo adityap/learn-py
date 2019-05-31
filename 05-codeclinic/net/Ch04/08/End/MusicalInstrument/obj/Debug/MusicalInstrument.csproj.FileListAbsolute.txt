@@ -1,0 +1,13 @@
+C:\Users\i91987\OneDrive - Cotiviti\pynet\codeclinic\net\Ch04\08\End\MusicalInstrument\bin\Debug\MusicalInstrument.exe.config
+C:\Users\i91987\OneDrive - Cotiviti\pynet\codeclinic\net\Ch04\08\End\MusicalInstrument\bin\Debug\MusicalInstrument.exe
+C:\Users\i91987\OneDrive - Cotiviti\pynet\codeclinic\net\Ch04\08\End\MusicalInstrument\bin\Debug\MusicalInstrument.pdb
+C:\Users\i91987\OneDrive - Cotiviti\pynet\codeclinic\net\Ch04\08\End\MusicalInstrument\bin\Debug\NAudio.dll
+C:\Users\i91987\OneDrive - Cotiviti\pynet\codeclinic\net\Ch04\08\End\MusicalInstrument\bin\Debug\NAudio.xml
+C:\Users\i91987\OneDrive - Cotiviti\pynet\codeclinic\net\Ch04\08\End\MusicalInstrument\obj\Debug\MusicalInstrument.csprojAssemblyReference.cache
+C:\Users\i91987\OneDrive - Cotiviti\pynet\codeclinic\net\Ch04\08\End\MusicalInstrument\obj\Debug\MusicalInstrument.MusicForm.resources
+C:\Users\i91987\OneDrive - Cotiviti\pynet\codeclinic\net\Ch04\08\End\MusicalInstrument\obj\Debug\MusicalInstrument.Properties.Resources.resources
+C:\Users\i91987\OneDrive - Cotiviti\pynet\codeclinic\net\Ch04\08\End\MusicalInstrument\obj\Debug\MusicalInstrument.csproj.GenerateResource.cache
+C:\Users\i91987\OneDrive - Cotiviti\pynet\codeclinic\net\Ch04\08\End\MusicalInstrument\obj\Debug\MusicalInstrument.csproj.CoreCompileInputs.cache
+C:\Users\i91987\OneDrive - Cotiviti\pynet\codeclinic\net\Ch04\08\End\MusicalInstrument\obj\Debug\MusicalInstrument.csproj.CopyComplete
+C:\Users\i91987\OneDrive - Cotiviti\pynet\codeclinic\net\Ch04\08\End\MusicalInstrument\obj\Debug\MusicalInstrument.exe
+C:\Users\i91987\OneDrive - Cotiviti\pynet\codeclinic\net\Ch04\08\End\MusicalInstrument\obj\Debug\MusicalInstrument.pdb
