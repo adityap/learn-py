@@ -14,12 +14,12 @@ def count_to(count):
 	for position, number in iterator:
 		
 		#Returns a 'generator' containing numbers in German
-		yield number 
+		yield position + 1, number 
 
 #Let's test the generator returned by our iterator
-for num in count_to(3):
-	print("{}".format(num))
+for pos, num in count_to(3):
+	print("{} is {}".format(num, pos))
 
-for num in count_to(4):
-	print("{}".format(num))
+for pos, num in count_to(4):
+	print("{} is {}".format(num, pos))
 	

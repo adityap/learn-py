@@ -34,6 +34,7 @@ class Composite(Component): #Inherits from the abstract class, Component
 
 	def append_child(self, child):
 		"""Method to add a new child item"""
+		child.name = "	" + child.name
 		self.children.append(child)
 
 	def remove_child(self, child):
